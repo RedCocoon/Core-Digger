@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b175e864d2bd9444488a9ef952e68da2, type: 3}
+  m_Name: Level_Hell
+  m_EditorClassIdentifier: 
+  Cubes:
+  - {fileID: 653616145573036941, guid: ecc8c9fe3c2aea74a93003c9292d88f6, type: 3}
+  - {fileID: 5828659706147417950, guid: 988e836e11de27f4b9bcdc2c1f04a7fc, type: 3}
+  - {fileID: 1704787952742565044, guid: d076477d2742db04f93a3af75ae6c78e, type: 3}
+  WallChunks:
+  - {fileID: 3455487288430274991, guid: 7214ddce0ff94c3178c27cae7a9a1785, type: 3}
+  - {fileID: 2511667981510775129, guid: b3317ccaafdf4bda28942031fb5b9958, type: 3}
+  - {fileID: -4585763734170380978, guid: b86f104fff716976fb6bc5ef943b6418, type: 3}
+  - {fileID: -5767451926737768937, guid: 866771ae3e3be99a4a590b8af1881dd6, type: 3}
+  - {fileID: 2278447283122094267, guid: eac43aae4d175a9a4bc4a58af2048f5b, type: 3}
+  EndChunk: {fileID: 0}
+  Length: 50
+  PickaxeColor: {r: 0.5527966, g: 0.56619775, b: 0.593, a: 1}
+  ShovelColor: {r: 0.92549026, g: 0.3372549, b: 0.21568629, a: 1}

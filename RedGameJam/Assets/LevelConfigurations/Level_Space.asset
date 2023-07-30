@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b175e864d2bd9444488a9ef952e68da2, type: 3}
+  m_Name: Level_Space
+  m_EditorClassIdentifier: 
+  Cubes:
+  - {fileID: 653616145573036941, guid: c15daa731dcdfad4c9e638c1b5d90cef, type: 3}
+  - {fileID: 5828659706147417950, guid: b1b7d3a24bad7624685b9c4736ab7724, type: 3}
+  - {fileID: 1704787952742565044, guid: d076477d2742db04f93a3af75ae6c78e, type: 3}
+  WallChunks:
+  - {fileID: 2998116211863580469, guid: 7637dbd9ae616a43abc80448f3beb2cf, type: 3}
+  - {fileID: 1413436287003302558, guid: baf6ce9dfa98ae62392c9cf0df054675, type: 3}
+  - {fileID: -3611563339321501176, guid: f73ca7b1ae974b97b87f03a7ad877cc5, type: 3}
+  - {fileID: 8505514764645049851, guid: 26988a0359e1bf2869f94e7634e1dadc, type: 3}
+  - {fileID: -3085842676204589073, guid: daa8c183085d4da19b9b2582bf0dbfc7, type: 3}
+  EndChunk: {fileID: 0}
+  Length: 50
+  PickaxeColor: {r: 1, g: 0.23460126, b: 0.17645377, a: 1}
+  ShovelColor: {r: 0.21568625, g: 0.59050596, b: 0.9254902, a: 1}
